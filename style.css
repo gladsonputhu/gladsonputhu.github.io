@@ -1,0 +1,21 @@
+<style>
+img {
+    opacity: 0.6;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+body {
+    background-image: url("./sky.jpg");
+}
+h1 {
+   
+    border: 2px solid black;
+    outline: #4CAF50 solid 10px;
+    margin: auto;    
+    padding: 20px;
+    text-align: center;
+}
+h3 { color: #800000;
+ text-align: center;
+   }
+
+</style>
