@@ -3,19 +3,30 @@ img {
     opacity: 0.6;
     filter: alpha(opacity=50); /* For IE8 and earlier */
 }
-body {
-    background-image: url("./sky.jpg");
+
+
+/*#bod {
+    background-image: url("C:/Users/Gladson Mathew/Desktop/RCRPT.png");
+    background-color:#A3A1A0;
+    background-size: cover;*/
+/*}*/
+#bod1{
+   background-image:url("IMGL5892.jpg");
+   background-color:"blue";
 }
-h1 {
-   
+
+.cen {
     border: 2px solid black;
     outline: #4CAF50 solid 10px;
     margin: auto;    
     padding: 20px;
     text-align: center;
-}
-h3 { color: #800000;
- text-align: center;
+     }
+div{background-color: grey;}
+
+
+.cen2,h3 { color: #6A1D05;
+ text-align: right;
    }
 
 </style>
